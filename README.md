@@ -20,7 +20,7 @@ A React application that analyzes words by counting letter occurrences, grouping
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/derekjpeters/react-word-analyzer.git```
+   git clone https://github.com/derekjpeters/react-word-analyzer.git
 
 
 # react-word-analyzer
