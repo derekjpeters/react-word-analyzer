@@ -24,7 +24,7 @@ A React application that analyzes words by counting letter occurrences, grouping
 
 
 # react-word-analyzer
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
