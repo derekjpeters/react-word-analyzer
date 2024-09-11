@@ -1,4 +1,28 @@
-<<<<<<< HEAD
+# Word Analyzer Tool
+
+A React application that analyzes words by counting letter occurrences, grouping anagrams, highlighting duplicate letters, and displaying word statistics. The tool also provides a toggle between light and dark modes and allows you to copy results to the clipboard.
+
+## Features
+
+- **Analyze Words:** Enter a list of comma-separated words, and the app will count letter occurrences, group anagrams, and highlight duplicate letters.
+- **Word Statistics:** Displays the total number of words, the average word length, and the number of unique letters.
+- **Anagram Grouping:** Identifies and groups words that are anagrams of each other.
+- **Word Cloud:** Dynamically sizes words based on their length.
+- **Dark Mode:** Toggle between light and dark modes.
+- **Copy to Clipboard:** Allows users to copy the results of the word analysis to the clipboard.
+
+## Technologies Used
+
+- React
+- CSS for styling
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/derekjpeters/react-word-analyzer.git```
+
+
 # react-word-analyzer
 =======
 # Getting Started with Create React App
